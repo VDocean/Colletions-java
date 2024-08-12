@@ -40,6 +40,8 @@ public class CadastroProduto {
 		
 		System.out.println(produtos.exibirProdutoPorNome());
 		System.out.println(produtos.ProdutoPorPreco());
+		
+		
 	}
 
 }
